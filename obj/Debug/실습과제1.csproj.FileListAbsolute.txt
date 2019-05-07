@@ -1,0 +1,10 @@
+C:\Users\예진\Desktop\두원\C#\실습과제1\실습과제1\bin\Debug\실습과제1.exe.config
+C:\Users\예진\Desktop\두원\C#\실습과제1\실습과제1\bin\Debug\실습과제1.exe
+C:\Users\예진\Desktop\두원\C#\실습과제1\실습과제1\bin\Debug\실습과제1.pdb
+C:\Users\예진\Desktop\두원\C#\실습과제1\실습과제1\obj\Debug\실습과제1.csprojAssemblyReference.cache
+C:\Users\예진\Desktop\두원\C#\실습과제1\실습과제1\obj\Debug\실습과제1.Form1.resources
+C:\Users\예진\Desktop\두원\C#\실습과제1\실습과제1\obj\Debug\실습과제1.Properties.Resources.resources
+C:\Users\예진\Desktop\두원\C#\실습과제1\실습과제1\obj\Debug\실습과제1.csproj.GenerateResource.cache
+C:\Users\예진\Desktop\두원\C#\실습과제1\실습과제1\obj\Debug\실습과제1.csproj.CoreCompileInputs.cache
+C:\Users\예진\Desktop\두원\C#\실습과제1\실습과제1\obj\Debug\실습과제1.exe
+C:\Users\예진\Desktop\두원\C#\실습과제1\실습과제1\obj\Debug\실습과제1.pdb
